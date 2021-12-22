@@ -169,7 +169,7 @@ exports.ngebucin =[
 "Isih tetep bertahan karo wong sing isone mung ngelarani kowe? Kuwi jenenge sayang? Opo ora iso golek sing luwih seko kuwi?"
 ]
 
-exports.katahai =["Halo","halo","Hallo","hallo","Hai","hai","Moshi moshi","moshi moshi","Kirara","kirara"]
+exports.katahai =["Halo","halo","Hallo","hallo","Hai","hai","Moshi moshi","moshi moshi","Alyaa","alyaa","Alya",alya]
 
 exports.katamalem =[
 "Selamat malam","selamat malam","Malam","malam","Malem","malem","oyasumi","Oyasumi",
@@ -187,7 +187,7 @@ exports.katasore =[
 
 
 exports.katalopyou =[
-"I love u","i love u","Love u","love u","Love u kirara"
+"I love u","i love u","Love u","love u","Love u Alyaa"
 ]
 
 exports.tekssalah =[
@@ -197,9 +197,10 @@ exports.tekssalah =[
 "Yahaha salah","Bukan itu","No!",
 "Horeeeee!\nEh salah bukan itu","Asik salah",
 "Masih salah 😎","Bukan itu bambang"
+"Salah kmtl dh gua bilang🗿"
 ]
 
-exports.badud =["kirara","Kirara","bot","Bot"]
+exports.badud =["Alyaa","alyaa","alya,","Alya","bot","Bot"]
 
 exports.ohayo =["pagi",
 "Pagi",
@@ -210,7 +211,7 @@ exports.ohayo =["pagi",
 
 exports.salam =["P","p","Woy","woy","Oy","oy","hey","Hey"]
 
-exports.thanks =["hnk","hanks","akasih","ksh","ksih"]
+exports.thanks =["hnk","hanks","akasih","ksh","ksih","tq","Tq"]
 
 exports.menu = ["menu","Menu","mEnu","menU","mennu","Mana menunya","help","Help"]
 
