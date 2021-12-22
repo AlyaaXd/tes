@@ -407,16 +407,10 @@ ${week}, ${calender}
 
 *╭─❲ THANKS TO ❳*
 *│*
-*│* • Dittaz
+*│* • Ditazz
 *│* • Nina Kawai
-*│* • Resta Gamteng :v
+*│* • AlyaaChann
 *│* • Zeeone Ofc
-*│* • Yudha Perdana
-*│* • Yogi PW
-*│* • Decode Denpa
-*│* • Fernazer
-*│* • X - Dev Team
-*│* • XChillDs & Yuzu
 *│*
 *╰────────────⦁*`
 }
