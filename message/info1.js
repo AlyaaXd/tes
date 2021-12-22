@@ -9,24 +9,16 @@ return`
 *│▸* Tgl pembuatan : 25-07-2021
 *│▸* Tgl release : 29-09-2021
 *│▸* Image : Gawr Gura
-*│▸* Voice : Nina kawai
+*│▸* Voice : Alyaa
 *│*
 *│▸* SCRIPT BY
-*│*   Decode Denpa
-*│*   X-Dev Team
-*│*   Yogi PW
-*│*   Hexagon
+*│*   Alyaa
+*│*   Zeeone Ofc
 *│*   Dttaz
 *│*
 *│▸* FEATURE  BY  
-*│*   Decode Denpa
-*│*   Fernazer
-*│*   X-Dev Team
-*│*   Resta Gamteng
+*│*   Alyaa
 *│*   Zeeone Ofc
-*│*   X-Dev Team
-*│*   Yudha perdana
-*│*   Xchilds
 *│*
 *╰────────────[*`
 }
